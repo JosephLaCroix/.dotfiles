@@ -1,0 +1,9 @@
+JOSEPH MICHAEL LACROIX
+The process of this lab was very interesting. I learned alot about different commands we can use to open files and edit files. I found it very cool that we can change the background color of the file as well. The problems I had was Write and Quit the file. I typed out "Write" and "Quit" and it obviously didnt work, I did not realize that we needed to first do Esc+Shift+: then we needed to do wq. Once I got past this the rest of the lab was relatively easy and I learned a lot.
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
+
